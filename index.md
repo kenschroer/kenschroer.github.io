@@ -45,6 +45,8 @@ Sincerely,
 
 [OpenID Connect](https://openid.net/connect/)
 
+<a href="https://openid.net/connect/" target="_blank">OpenID Connect <sup><i class="fas fa-external-link-alt"></i></sup></a>
+
 [![Image](https://kenschroer.com/hu/images/img_1.jpg)](https://kenschroer.com/ "Click here")
 
 ![Image of img1](https://kenschroer.com/hu/images/img_1.jpg)
