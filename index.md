@@ -43,6 +43,8 @@ Sincerely,
 
 [![Image](yourImage.jpg)](http://your Link Here.com "Description")
 
+[OpenID Connect](https://openid.net/connect/)
+
 [![Image](https://kenschroer.com/hu/images/img_1.jpg)](https://kenschroer.com/ "Click here")
 
 ![Image of img1](https://kenschroer.com/hu/images/img_1.jpg)
