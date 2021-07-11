@@ -45,7 +45,7 @@ Sincerely,
 
 <a href="https://openid.net/connect/" target="_blank">OpenID Connect <sup><i class="fas fa-external-link-alt"></i></sup></a>
 
-[![Image](https://kenschroer.com/hu/images/img_1.jpg)](https://kenschroer.com/ "Click here")
+[![Image](https://kenschroer.com/hu/images/img_1.jpg)](https://www.credential.net/288354bf-f7b5-4197-937f-f9afc9f70205?key=096c8feb4f3f344cfd50577b18364600fd5b8608b7aa6bf8f6fa1be1b102ad21 "Click to Verify")
 
 ![Image of img1](https://kenschroer.com/hu/images/img_1.jpg)
 ![Image of img1](https://kenschroer.com/hu/images/img_2.jpg)
