@@ -41,6 +41,8 @@ Sincerely,
 
 [Github Markdown basics](https://guides.github.com/features/mastering-markdown/)
 
+[![Image](yourImage.jpg)](http://your Link Here.com "Description")
+
 ![Image of img1](https://kenschroer.com/hu/images/img_1.jpg)
 ![Image of img1](https://kenschroer.com/hu/images/img_2.jpg)
 ![Image of img1](https://kenschroer.com/hu/images/img_3.jpg)
