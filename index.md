@@ -37,7 +37,7 @@ saepius.
 
 Sincerely,
 
-![Image of img1](https://kenschroer.com/hu/images/img_1)
+![Image of img1](https://kenschroer.com/hu/images/img_1.jpg)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
