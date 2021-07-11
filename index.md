@@ -41,8 +41,6 @@ Sincerely,
 
 [Github Markdown basics](https://guides.github.com/features/mastering-markdown/)
 
-[![Image](yourImage.jpg)](http://your Link Here.com "Description")
-
 [OpenID Connect](https://openid.net/connect/)
 
 <a href="https://openid.net/connect/" target="_blank">OpenID Connect <sup><i class="fas fa-external-link-alt"></i></sup></a>
