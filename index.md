@@ -43,6 +43,8 @@ Sincerely,
 
 [![Image](yourImage.jpg)](http://your Link Here.com "Description")
 
+[![Image](yourImage.jpg)](https://kenschroer.com/hu/images/img_1.jpg "Description")
+
 ![Image of img1](https://kenschroer.com/hu/images/img_1.jpg)
 ![Image of img1](https://kenschroer.com/hu/images/img_2.jpg)
 ![Image of img1](https://kenschroer.com/hu/images/img_3.jpg)
