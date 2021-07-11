@@ -36,7 +36,8 @@ Investigationes demonstraverunt lectores legere me lius quod ii legunt
 saepius.
 
 Sincerely,
-https://guides.github.com/features/mastering-markdown/
+[link to Google!](http://google.com)
+[Github Markdown basics](https://guides.github.com/features/mastering-markdown/)
 
 ![Image of img1](https://kenschroer.com/hu/images/img_1.jpg)
 ![Image of img1](https://kenschroer.com/hu/images/img_2.jpg)
