@@ -42,7 +42,7 @@ Sincerely,
 
 <p align="center">
   <a href="https://www.credly.com/badges/6aca5f64-160f-4703-98c6-06557cbaee0d/public_url"> <img src="https://kenschroer.github.io/img/aviatrix.PNG"></a>
-  <a href="https://www.credential.net/288354bf-f7b5-4197-937f-f9afc9f70205?"> <img src="https://kenschroer.com/hu/images/img_2.jpg "title="Smiley face"></a>
+  <a href="https://www.credential.net/288354bf-f7b5-4197-937f-f9afc9f70205?"> <img src="https://kenschroer.com/hu/images/img_2.jpg"></a>
   <img src="https://kenschroer.com/hu/images/img_4.jpg" />
   <img src="https://kenschroer.com/hu/images/img_3.jpg" />
   <img src="https://kenschroer.com/hu/images/img_2.jpg" />
