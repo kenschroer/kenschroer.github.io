@@ -60,7 +60,7 @@ Sincerely,
   <img src="https://kenschroer.com/hu/images/img_1.jpg" />
 </p>
 
-![Image of img1](https://github.com/kenschroer/kenschroer.github.io/img/aviatrix.PNG)
+![Image of img1](https://kenschroer.github.io/img/aviatrix.PNG)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
