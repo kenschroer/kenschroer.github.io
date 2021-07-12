@@ -51,6 +51,7 @@ Sincerely,
 [![Image](https://kenschroer.com/hu/images/img_2.jpg)](https://www.credential.net/288354bf-f7b5-4197-937f-f9afc9f70205?key=096c8feb4f3f344cfd50577b18364600fd5b8608b7aa6bf8f6fa1be1b102ad21 "Click to Verify")
 ![Image of img1](https://kenschroer.com/hu/images/img_3.jpg)
 ![Image of img1](https://kenschroer.com/hu/images/img_4.jpg)
+![Image of img1](https://kenschroer.github.io/img/avaitrix.png)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
