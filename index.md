@@ -43,12 +43,9 @@ Sincerely,
 <p align="center">
   <a href="https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=RYKPYRG1C1141L3P"> <img src="https://kenschroer.github.io/img/img_1.jpg"></a>
   <a href="https://www.credential.net/288354bf-f7b5-4197-937f-f9afc9f70205?"> <img src="https://kenschroer.github.io/img/img_2.jpg"></a>
-  <a href="https://www.credly.com/badges/6aca5f64-160f-4703-98c6-06557cbaee0d/public_url"> <img src="https://kenschroer.github.io/img/aviatrix.PNG"></a>
   <a href="https://www.credly.com/badges/3576723d-1459-4508-9d4c-64f7e6799874"> <img src="https://kenschroer.github.io/img/img_3.jpg"></a>
+  <a href="https://www.credly.com/badges/6aca5f64-160f-4703-98c6-06557cbaee0d/public_url"> <img src="https://kenschroer.github.io/img/aviatrix.PNG"></a>
   <img src="https://kenschroer.com/hu/images/img_4.jpg" />
 </p>
 
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-**Your Name**
+**The End**
