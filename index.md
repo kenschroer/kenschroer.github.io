@@ -53,7 +53,7 @@ Sincerely,
 ![Image of img1](https://kenschroer.com/hu/images/img_4.jpg)
 
 <p align="center">
-  <img src="https://github.com/kenschroer/kenschroer.github.io/blob/main/img/aviatrix.PNG" />
+  <img src="https://kenschroer.github.io/img/aviatrix.PNG" />
   <img src="https://kenschroer.com/hu/images/img_4.jpg" />
   <img src="https://kenschroer.com/hu/images/img_3.jpg" />
   <img src="https://kenschroer.com/hu/images/img_2.jpg" />
