@@ -54,6 +54,10 @@ Sincerely,
 
 <p align="center">
   <img src="https://github.com/kenschroer/kenschroer.github.io/blob/main/img/aviatrix.PNG" />
+  <img src="https://kenschroer.com/hu/images/img_4.jpg" />
+  <img src="https://kenschroer.com/hu/images/img_3.jpg" />
+  <img src="https://kenschroer.com/hu/images/img_2.jpg" />
+  <img src="https://kenschroer.com/hu/images/img_1.jpg" />
 </p>
 
 ![Image of img1](https://github.com/kenschroer/kenschroer.github.io/blob/main/img/aviatrix.PNG)
