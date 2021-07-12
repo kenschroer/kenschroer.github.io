@@ -37,11 +37,8 @@ saepius.
 
 Sincerely,
 
-[link to Google!](http://google.com)
 
 [Github Markdown basics](https://guides.github.com/features/mastering-markdown/)
-
-[OpenID Connect](https://openid.net/connect/)
 
 <a href="https://openid.net/connect/" target="_blank">OpenID Connect <sup><i class="fas fa-external-link-alt"></i></sup></a>
 
@@ -54,6 +51,7 @@ Sincerely,
 
 <p align="center">
   <img src="https://kenschroer.github.io/img/aviatrix.PNG" />
+  [![Image](https://kenschroer.com/hu/images/img_2.jpg)](https://www.credential.net/288354bf-f7b5-4197-937f-f9afc9f70205?
   <img src="https://kenschroer.com/hu/images/img_4.jpg" />
   <img src="https://kenschroer.com/hu/images/img_3.jpg" />
   <img src="https://kenschroer.com/hu/images/img_2.jpg" />
